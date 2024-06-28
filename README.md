@@ -68,3 +68,6 @@ The system was implemented using:
   - **Password**: User@123
 
 - [**Final Presentation.**](https://docs.google.com/file/d/1K1VGwoPnbVUZaQmDyN0I6AAd1HIm5dnf/edit?usp=docslist_api&filetype=mspresentation)
+
+## Note
+The source code for Madrasty is private and cannot be shared.
